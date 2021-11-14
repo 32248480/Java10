@@ -1,4 +1,4 @@
-//�b���g(e)��,�n���ŧi�@�Ӱ}�C,�ΨӦs��6�Ӫ��󪺭��n,�M��n�N�o6�Ӫ��󪺭��n�Ȥ��O�]���}�C�����x�s,�A�N�o�Ӱ}�C�ǤJlargest()method���i�����j�p,�̫�Ǧ^�̤j�����n�ȡC�ϥγo�ؤ覡,�|�۷����O�O���骺�Ŷ�,�P�ɤ]�|�ϱo�]�ȵ��}�C�s���,�L�k���Ī��B�ΰj��Ӭ��}�C�]��,�y���{���L�󤾪��C
+//在撰寫(e)時,要先宣告一個陣列,用來存放6個物件的面積,然後要將這6個物件的面積值分別設給陣列元素儲存,再將這個陣列傳入largest()method中進行比較大小,最後傳回最大的面積值。使用這種方式,會相當浪費記憶體的空間,同時也會使得設值給陣列存放時,無法有效的運用迴圈來為陣列設值,造成程式過於冗長。
 class CShape{
 public double area(){
  return 0;
