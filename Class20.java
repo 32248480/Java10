@@ -35,4 +35,4 @@ public static void main(String args[]){
 //Argument Error
 
 //(c),
-//¦b(a)©M(b)¤¤©Ò©w¸qªº¨â­ÓtoString()method±o¥H¦P®É¦s¦b©ó¤@­ÓÃş§O¤º,¬O§Q¥ÎOOP¤¤ªº¡u¦h¸ü¡v¡C
+//åœ¨(a)å’Œ(b)ä¸­æ‰€å®šç¾©çš„å…©å€‹toString()methodå¾—ä»¥åŒæ™‚å­˜åœ¨æ–¼ä¸€å€‹é¡åˆ¥å…§,æ˜¯åˆ©ç”¨OOPä¸­çš„ã€Œå¤šè¼‰ã€ã€‚
