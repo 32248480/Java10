@@ -66,6 +66,7 @@ public static double largest(double a[]){
 }
 }
 
+//circle(1.0)=3.14
 //circle(2.0)=12.56
 //square(1.0)=1.0
 //square(2.0)=4.0
